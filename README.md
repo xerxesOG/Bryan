@@ -4,7 +4,7 @@ I'm passionate about **cybersecurity** mostly and the occasional **software deve
 
 - 🌱 I’m currently learning about React and JavaScript.
 - 💬 Ask me about JavaScript, C++, or agile methodologies.
-- 📫 How to reach me: (bryan.budusmith-otoo1@marist.edu)
+- 📫 How to reach me: (bryanbrucesmith15@gmail.com)
 - ⚡ Fun fact: I enjoy playing star wars battlefront 2 and reading about space exploration.
 
 ## Projects I'm working on:
